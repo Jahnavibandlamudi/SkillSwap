@@ -1,0 +1,9 @@
+target/
+tomcat.*/
+src/main/resources/db.properties
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
